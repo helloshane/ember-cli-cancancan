@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-cancancan/services/permission-handler';
